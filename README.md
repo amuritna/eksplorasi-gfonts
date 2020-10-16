@@ -20,4 +20,6 @@ Sebuah *font* yang telah kugunakan berkali-kali:
 
 ![Screenshot sebuah tampilan dengan latar belakang malam dengan judul "yang mana yang baku?"](https://u.cubeupload.com/somethingpretty/80eScreenshotfrom202010.png)
 
-Salah satu keunggulan memanfaatkan Google Fonts tentu saja adalah banyaknya pilihan *typeset* yang cakep dan enak dibaca, sesuatu yang sangat berpengaruh bagi kenyamanan pengalaman menggunakan suatu *website* atau *web app*. Namun, tentu saja ada kekurangannya. Google Fonts (bisa) lumayan berat di *bandwidth*.
+Salah satu keunggulan memanfaatkan Google Fonts selain kemudahan tentu saja adalah banyaknya pilihan *typeset* yang cakep dan enak dibaca, sesuatu yang sangat berpengaruh bagi kenyamanan pengalaman menggunakan suatu *website* atau *web app*.
+
+Namun, tentu saja ada kekurangannya; Google Fonts (bisa) lumayan berat di *bandwidth*.
