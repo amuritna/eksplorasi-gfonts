@@ -1,9 +1,5 @@
 # Eksplorasi Google Fonts
 
-Nama: E‍mm‍anu‍el‍la P‍ram‍udi‍ta R‍u‍ma‍n‍ti
-
-NIM: 16‍5‍20‍2‍96
-
 Produk Google pertama yang aku pakai sebagai seorang *developer* (dan bukan sekadar *user*) kemungkinan adalah Google Fonts. Sebagai seorang pemula dalam HTML/CSS, awalnya aku dulu hanya mengetahui cara menggunakan *font* yang sudah ter-*install* di komputer (*system font*). Menemukan Google Fonts adalah salah satu kenangan paling menyenangkan dari masa itu -- tidak lagi aku dibatasi oleh keberadaan *font* yang ada di sistem, tidak lagi aku harus pasrah tipografi *website* rancanganku bakal terlihat berbeda di Ubuntu dan Windows.
 
 Selain itu, lewat Google Fonts, aku telah menemukan banyak sekali *font* indah yang sebelumnya tidak aku ketahui.
